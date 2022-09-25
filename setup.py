@@ -1,17 +1,17 @@
 from setuptools import setup, find_packages
 
-long_description = 'A better version of typing - read the docs at https://www.github.com/nayakrujul/better-typing'
+long_description = 'Make your code shorter with shortcuts optimised for golfing in Python - read the docs at https://www.github.com/nayakrujul/golfing-shortcuts'
 
 setup(
-  name = 'better-typing',
-  version = '1.0',
+  name = 'golfing-shortcuts',
+  version = '0.1',
   license='Apache',
-  description = 'A better version of typing',
+  description = 'Make your code shorter with shortcuts optimised for golfing in Python',
   author = 'Rujul Nayak',
   author_email = 'rujulnayak@outlook.com',
-  url = 'https://github.com/nayakrujul/better-typing',
-  download_url = 'https://github.com/nayakrujul/better-typing/archive/refs/tags/v_01.tar.gz',
-  keywords = ['typing', 'type'],
+  url = 'https://github.com/nayakrujul/golfing-shortcuts',
+  download_url = 'https://github.com/nayakrujul/golfing-shortcuts/archive/refs/tags/v_01.tar.gz',
+  keywords = ['shortcuts', 'golfing', 'code-golf'],
   install_requires=[
       ],
   classifiers=[
