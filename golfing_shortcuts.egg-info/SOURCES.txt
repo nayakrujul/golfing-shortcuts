@@ -1,0 +1,9 @@
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+golfing_shortcuts.egg-info/PKG-INFO
+golfing_shortcuts.egg-info/SOURCES.txt
+golfing_shortcuts.egg-info/dependency_links.txt
+golfing_shortcuts.egg-info/top_level.txt
+s/__init__.py
