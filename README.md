@@ -152,7 +152,7 @@ import s
 |`s.Ri`|`random.randint`|
 |`s.Rp`|`random.sample`|
 |`s.Rr`|`random.random`|
-|`s.Rs`|`random.sample`|
+|`s.Rs`|`random.shuffle`|
 |`s.Ru`|`random.uniform`|
 |`s.Rx`|`random.choices`|
 
