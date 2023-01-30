@@ -4,7 +4,7 @@ long_description = 'Make your code shorter with shortcuts optimised for golfing 
 
 setup(
   name = 'golfing-shortcuts',
-  version = '0.1',
+  version = '1.0',
   license='Apache',
   description = 'Make your code shorter with shortcuts optimised for golfing in Python',
   author = 'Rujul Nayak',
