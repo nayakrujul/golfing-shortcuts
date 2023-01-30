@@ -82,7 +82,7 @@ Rg = random.randrange
 Ri = random.randint
 Rp = random.sample
 Rr = random.random
-Rs = random.sample
+Rs = random.shuffle
 Ru = random.uniform
 Rx = random.choices
 
